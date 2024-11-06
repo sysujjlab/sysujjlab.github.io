@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        SYSU JJ's Lab
       image:
-        filename: welcome.jpg
+        filename: msr.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **SYSU JJ's Lab** was established in 2020. We are dedicated to creating the best IoT sensor chips.
   
   - block: collection
     content:
@@ -45,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: ersaner.jpg
           filters:
             brightness: 1
           parallax: false
