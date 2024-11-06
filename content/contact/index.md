@@ -9,24 +9,26 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        We are always looking for postgraduate and Ph.D. students who have a strong interest in integrated circuit design, possess strong self-motivation, and have a solid academic foundation. If you are interested, please contact me via the email address below.
+
+        Additionally, we are recruiting postdocs or full-time researchers with MPW tape-out experience and a record of high-quality publications. If you are interested, please send your CV and representative works to my email.
+      email: liujj77@mail.sysu.edu.cn
+      # phone: 888 888 88 88
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: Sun Yat-sen University, Shenzhen Campus, 66 Gongchang Road, Guangming District
+        city: Shenzhen
+        region: Guangdong
+        postcode: '518107'
+        country: China
+        country_code: CN
+      # coordinates:
+      #   latitude: '37.4275'
+      #   longitude: '-122.1697'
+      directions: Building 3, 3rd Floor South, Room 308, Gongxueyuan
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+        - 'Tuesday 10:00 to 12:00'
+        - 'Friday 10:00 to 12:00'
+      # appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -34,18 +36,18 @@ sections:
       #    link: 'https://discourse.gohugo.io'
     
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '1'
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
+    # design:
+    #   columns: '1'
 
   - block: markdown
     content:
@@ -56,7 +58,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: contactyi.jpg
           filters:
             brightness: 1
           parallax: false
