@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: ersiyi.jpg
             filters:
               brightness: 0.7
           position: right
@@ -23,17 +23,17 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: ersanyi.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
       - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+        content: 'Come and Join Us!'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: msr.jpg
             filters:
               brightness: 0.5
           position: center
