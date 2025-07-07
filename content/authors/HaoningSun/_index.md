@@ -62,9 +62,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Graduated Students
 ---
 
-Haoning Sun received the B.Sc. degree in xxx major from Sun Yat-sen University, Shenzhen, China, in 2022. He is currently pursuing the M.S. degree in electronic information with Sun Yat-sen University, Shenzhen, China.
+Haoning Sun received the B.Sc. degree from Sun Yat-sen University, Shenzhen, China, in 2022, and the M.Sc. degree in Electronic Information from Sun Yat-sen University, Shenzhen, China, in 2025. He is currently working as a chip engineer at HiSilicon, Huawei, focusing on integrated circuit development.
 
-His current research interests include circuit design of analog to digital converter for biomedical applications and noise shaping SAR ADC.
+
+His research interests include circuit design of analog to digital converter for biomedical applications and noise shaping SAR ADC.
