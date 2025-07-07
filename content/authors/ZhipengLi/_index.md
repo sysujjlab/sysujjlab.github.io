@@ -67,7 +67,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 #  - Researchers
-  - Graduate Students
+  - PhD Students
 ---
 
 Zhipeng Li received the B.Sc. degree in xxx from Henan Normal University, Xinxiang, China, in xxx, and the M.Sc. degree in xxx from Chongqing University, Chongqing, China, in xxx. He is currently pursuing the Ph.D. degree with Sun Yat-sen University, Shenzhen, China.
