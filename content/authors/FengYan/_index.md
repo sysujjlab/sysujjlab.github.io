@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - PhD Students
 ---
 
 Feng Yan (Graduate Student Member, IEEE) received the B.Sc. degree in physics of electronic engineering from Yuncheng University, Shanxi, China, in 2018, and the M.Sc. degree in physics and electronics from Hunan Normal University, Hunan, China, in 2021. He is currently pursuing the Ph.D. degree with Sun Yat-sen University, Shenzhen, China.
