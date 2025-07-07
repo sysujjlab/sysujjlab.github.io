@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Master's Students
 ---
 
 Yun Zou received the B.Sc. degree in communication engineering from Central China Normal University, Wuhan, China, in 2022. He is currently pursuing the M.S. degree in electronic information with Sun Yat-sen University, Shenzhen, China.
