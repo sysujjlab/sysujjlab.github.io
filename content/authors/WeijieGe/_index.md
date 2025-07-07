@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - PhD Students
 ---
 
 Weijie Ge received the B.Sc. degree in xxx major from Southwest University, Chongqing, China, in 2020, and the M.Sc. degree in xxx major from University of Electronic Science and Technology of China, Chengdu, China, in 2023. He is currently pursuing the Ph.D. degree with Sun Yat-sen University, Shenzhen, China.
