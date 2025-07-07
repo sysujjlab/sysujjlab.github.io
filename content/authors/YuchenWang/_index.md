@@ -62,9 +62,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Graduated Students
 ---
 
-Yuchen Wang received the B.Sc. degree in xxx major from Sun Yat-sen University, Shenzhen, China, in 2022. He is currently pursuing the M.S. degree in information and communication engineer with Sun Yat-sen University, Shenzhen, China.
+Yuchen Wang received the B.Sc. degree from Sun Yat-sen University, Shenzhen, China, in 2022, and the M.S. degree in Electronic Information from Sun Yat-sen University, Shenzhen, China, in 2025. He is currently working at China Southern Power Grid Company Limited.
 
-His current research interests include the design of high dynamic range and multi-mode image sensors.
+His research interests include the design of high dynamic range and multi-mode image sensors.
