@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - PhD Students
 ---
 
 Bingjun Xiong received the B.Sc. degree in xxx major from Southwest University of Science and Technology, Mianyang, China, in time, and the M.Sc. degree in xxx major from Hunan Normal University, Changsha, China, in time. He is currently pursuing the Ph.D. degree with Sun Yat-sen University, Shenzhen, China.
