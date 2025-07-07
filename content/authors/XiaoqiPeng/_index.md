@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - PhD Students
 ---
 
 Xiaoqi Peng received the B.Sc. degree in xxx major from Guizhou University, Guizhou, China, in time, and the M.Sc. degree in xxx major from Hongkong University of Science and Technology, Hongkong, China, in time. She is currently pursuing the Ph.D. degree with Sun Yat-sen University, Shenzhen, China.
