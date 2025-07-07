@@ -66,4 +66,5 @@ user_groups:
 ---
 
 Wenji Mo received the B.Sc. degree in electronic information science and technology from Central China Normal University, Wuhan, China, in 2022, and the M.Sc. degree in Electronic Information from Sun Yat-sen University, Shenzhen, China, in 2025.He is currently working as a chip engineer at Sanechips, focusing on integrated circuit development.
+
 His research interests include circuit design of low-power RISC-V processors and self-powered SoCs.
