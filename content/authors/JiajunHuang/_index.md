@@ -62,9 +62,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Master's Students
 ---
 
-Jiajun Huang received the B.Sc. degree in xxx major from Jinan University, Guangzhou, China, in 2024. He is currently pursuing the M.S. degree in electronic information with Sun Yat-sen University, Shenzhen, China.
+Jiajun Huang received the B.Sc. degree from Jinan University, Guangzhou, China, in 2024. He is currently pursuing the M.S. degree in electronic information with Sun Yat-sen University, Shenzhen, China.
 
 His current research interests include circuit design of CMOS memristor simulators and neuromorphic chips.
