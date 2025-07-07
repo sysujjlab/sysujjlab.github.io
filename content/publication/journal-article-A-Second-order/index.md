@@ -10,8 +10,8 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2023-10-01T00:00:00Z"
-doi: "10.1109/LED.2023.3309868"
+date: "2024-10-24T00:00:00Z"
+doi: "10.1109/BioCAS61083.2024.10798387"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-12-23T00:00:00Z"
