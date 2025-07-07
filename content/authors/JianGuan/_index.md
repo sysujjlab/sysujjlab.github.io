@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - PhD Students
 ---
 
 Jian Guan received the B.Sc. degree in xxx major from Xiangtan University, Xiangtan, China, in xxx, and the M.Sc. degree in xxx major from Xiangtan University, Xiangtan, China, in xxx. He is currently pursuing the Ph.D. degree with Sun Yat-sen University, Shenzhen, China.
