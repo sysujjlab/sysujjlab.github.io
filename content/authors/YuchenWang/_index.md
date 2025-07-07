@@ -66,5 +66,4 @@ user_groups:
 ---
 
 Yuchen Wang received the B.Sc. degree from Sun Yat-sen University, Shenzhen, China, in 2022, and the M.S. degree in Electronic Information from Sun Yat-sen University, Shenzhen, China, in 2025. He is currently working at China Southern Power Grid Company Limited.
-
 His research interests include the design of high dynamic range and multi-mode image sensors.
