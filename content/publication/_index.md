@@ -2,7 +2,8 @@
 title: Publications
 
 # Listing view
-view: citation
+# view: citation
+{{< publications style="apa" numbered="true" >}}
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
