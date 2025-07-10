@@ -25,8 +25,8 @@ publishDate: "2023-10-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* IEEE Transactions on Very Large Scale Integration (VLSI) Systems ( Volume: 33, Issue: 7, July 2025)*. 2023;44(10): 1664-1667."
-publication_short: "* IEEE Transactions on Very Large Scale Integration (VLSI) Systems ( Volume: 33, Issue: 7, July 2025)*. 2023;44(10): 1664-1667"
+publication: "*IEEE Transactions on Very Large Scale Integration (VLSI) Systems ( Volume: 33, Issue: 7, July 2025)*."
+publication_short: "*IEEE Transactions on Very Large Scale Integration (VLSI) Systems ( Volume: 33, Issue: 7, July 2025)*."
 
 abstract: This article proposes a fully differential ten-bit energy-efficient successive approximation register (SAR) analog-to-digital converter (ADC) for wearable 12-lead electrocardiogram (ECG) acquisition system. The proposed ADC structure generates two bypass windows through capacitor splitting technique, which can skip unnecessary quantization steps. The judgment module of bypass windows only requires an XOR gate. By introducing redundant capacitors to participate in quantization, the total capacitance value is reduced by half. The proposed SAR ADC is fabricated using a standard 180-nm CMOS process. The measurement results show that it can achieve an effective number of bits (ENOBs) of 9.38 bits and a spurious-free dynamic range (SFDR) of 76.71 dB with a supply voltage of 0.6 V at a sampling rate ( FS ) of 6.94 kS/s. The power consumption is 15.61 nW when subjected to a 1.17- VPP 3.45 -kHz sinusoidal input, resulting in a figure of merit (FoM) of 3.38 fJ/conv.-step. The average power consumption for quantizing 12-lead ECG signals is approximately 12.66 nW, demonstrating the ability to achieve ultralow-power quantization of ECG signals.
 # Summary. An optional shortened abstract.
@@ -45,7 +45,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://ieeexplore.ieee.org/document/10233876'
+url_source: 'https://ieeexplore.ieee.org/document/10978047'
 url_video: ''
 
 # Featured image
