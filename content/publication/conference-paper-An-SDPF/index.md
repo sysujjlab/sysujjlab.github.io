@@ -33,7 +33,7 @@ publication_short: In *2024 IEEE 17th International Conference on Solid-State & 
 abstract: Internet of Things (IoT) nodes are required to execute lightweight tasks for sensing information and simple signal processing. Thus low-power processors serve as crucial components of highly integrated IoT smart sensors. This paper proposes a low-power RISC-V instruction set architecture (ISA) based RV32I processor for embedded IoT nodes, which follows the serial data path. To enhance the performance of the serial data path followed (SDPF) processor, a pseudo-pipelined architecture is proposed. By partitioning and combining a portion of the instruction life cycle tasks into two stages, a two-stage pseudo-pipelined structure is achieved, reducing the number of cycles per instruction (CPI) of the SDPF processor. The proposed processor is designed based on Verilog HDL, the implementation results on FPGA demonstrate that the performance is improved by 58% compared to the conventional SDPF RV32I processor. Besides, the synthesis is performed using a standard 0.18 µm CMOS process technology. Post-layout simulation results demonstrate that, the System on Chip (SoC), which consists of the proposed processor, a 2 kB IMEM and a 4 kB DMEM, achieves an average CPI of 36, an area of 0.988 mm2, and an average power consumption of 182 µW/MHz.
 
 # Summary. An optional shortened abstract.
-summary:This paper proposes a method to improve the performance of RISC-V processors that follow a serial data path.
+summary: This paper proposes a method to improve the performance of RISC-V processors that follow a serial data path.
 
 tags: []
 
