@@ -29,7 +29,7 @@ publication_short: "*IEEE Transactions on Circuits and Systems II: Express Brief
 abstract: In this brief, a low-power CMOS analog front-end (AFE) circuit is proposed for fluorescence optical fiber temperature sensors. The CMOS AFE utilizes a novel adaptive dark current compensation technique to eliminate static operating point offsets in the front-end circuit, which occur due to the quick increases of photodiode dark current at high temperatures. The reconfigurable transimpedance amplifier (TIA) supports both high and low gain modes. Fabricated using a 180nm CMOS process, the AFE chip exhibits a -3dB bandwidth of 10kHz, a transimpedance gain of 158.51dBΩ, and an inputreferred noise current of 14.89fA/Hz in its high gain mode. Under a 3.3V power supply, the circuit consumes 62.4μW in this mode. The temperature sensor prototype utilizing this AFE chip achieves high-precision measurements, with an average error of -0.1 ∘C and a standard deviation of 0.33 ∘C across a range from -30 ∘C to 100 ∘C.
 
 # Summary. An optional shortened abstract.
-summary:This work presents a low-power CMOS AFE with adaptive dark current compensation and reconfigurable TIA, achieving 158.51dBΩ gain and 14.89fA/Hz noise for high-precision fiber temperature sensing.
+summary: This work presents a low-power CMOS AFE with adaptive dark current compensation and reconfigurable TIA, achieving 158.51dBΩ gain and 14.89fA/Hz noise for high-precision fiber temperature sensing.
 
 tags:
 - Source Themes
