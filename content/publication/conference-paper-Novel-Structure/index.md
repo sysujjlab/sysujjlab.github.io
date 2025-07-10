@@ -8,8 +8,8 @@ authors:
   - YafeiZhang
   - KangkangSun
   - XiaoqiPeng
-  -XinyingSu
-  -WeijieGe
+  - XinyingSu
+  - WeijieGe
   - admin
 
 # Author notes (optional)
@@ -35,7 +35,7 @@ publication_short: In *2025 3rd International Conference on Integrated Circuits 
 abstract:This article presents an energy-efficient dynamic CMOS comparator. By incorporating two additional NMOS transistors into the conventional Strong ARM (SA) structure, this design significantly reduces energy consumption as the differential voltage increases. Furthermore, it markedly improves key technical parameters such as precision, offset, and noise. Manufactured using a 180 nm CMOS process, the proposed comparator achieves 84 µV input-referred noise while consuming only 4.683-nW per comparison under a 1.2-V supply. This results in a figure of merit (FoM) of 0.033 nJ.µV2, representing a 53.36% reduction in power consumption compared to the conventional SA latch. These improvements are essential for energy-sensitive applications, enhancing system performance and minimizing power usage.
 
 # Summary. An optional shortened abstract.
-summary:This paper proposes a novel structure of dynamic CMOS comparator with high energy efficiency. 
+summary: This paper proposes a novel structure of dynamic CMOS comparator with high energy efficiency. 
 
 tags: []
 
