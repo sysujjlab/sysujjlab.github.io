@@ -22,8 +22,8 @@ publishDate: "2023-10-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* IEEE Transactions on Circuits and Systems II: Express Briefs ( Volume: 72, Issue: 7, July 2025)*. 2023;44(10): 1664-1667."
-publication_short: "* IEEE Transactions on Circuits and Systems II: Express Briefs ( Volume: 72, Issue: 7, July 2025)*. 2023;44(10): 1664-1667"
+publication: "*IEEE Transactions on Circuits and Systems II: Express Briefs ( Volume: 72, Issue: 7, July 2025)*."
+publication_short: "*IEEE Transactions on Circuits and Systems II: Express Briefs ( Volume: 72, Issue: 7, July 2025)*."
 
 abstract: This brief proposes a low-voltage low-power high dynamic range (HDR) CMOS image sensor (CIS) with visual neuronal responses (VNR) tailored for IoT applications, especially biomedical scenarios, which demand low power consumption and limited transmission bandwidth. The proposed CIS modeled on the nonlinear compression characteristics of illumination in the visual nervous system to enhance the dynamic range (DR). By employing a dynamic readout of pixel signals and comparing with a reference ramp voltage, the output of the proposed CIS conforms to the Naka-Rushton function, which describes the response features of visual neurons. The proposed CIS adopts a column-parallel architecture to enable simultaneous exposure, readout, and quantization of pixels in each row, combined with several low-power reset circuits to reduce image lag and inter-row crosstalk. A 126×64 HDR CIS with a 6.6 μ m pixel pitch was fabricated using a 180 nm CMOS technology. Measurement results show a DR exceeding 88.96 dB, with a total power consumption of 18.62 μ W at 60 fps and 0.8 V supply.
 
@@ -43,7 +43,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://ieeexplore.ieee.org/document/10233876'
+url_source: 'https://ieeexplore.ieee.org/document/11008545'
 url_video: ''
 
 # Featured image
