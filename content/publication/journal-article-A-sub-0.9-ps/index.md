@@ -24,8 +24,8 @@ publishDate: "2023-10-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* IEEE Transactions on Very Large Scale Integration (VLSI) Systems ( Early Access )*. 2023;44(10): 1664-1667."
-publication_short: "* IEEE Transactions on Very Large Scale Integration (VLSI) Systems ( Early Access )*. 2023;44(10): 1664-1667"
+publication: "* IEEE Transactions on Very Large Scale Integration (VLSI) Systems ( Early Access )*."
+publication_short: "* IEEE Transactions on Very Large Scale Integration (VLSI) Systems ( Early Access )*."
 
 abstract: This article presents an analog delay-locked loop (DLL) designed for high-precision measurement applications, featuring low static phase offset (SPO) and fast locking speed, such as time-to-digital converters (TDCs) and analog-to-digital converters (ADCs). A large gain and dead-zone free phase detector (PD) is proposed. When the DLL reaches the locked state, the phase error between the two input signals of the PD can be reduced to 0.53 ps (0.095°), which has an 18-time improvement compared to the conventional DLL. Therefore, the SPO of the entire DLL can be effectively reduced to be less than 0.87 ps. Furthermore, the auxiliary circuit, consisting of a large phase difference detector (LPDD) and fast-adjusting branches (FABs), accelerates the DLL’s locking process to 42 clock cycles and improves the locking speed by 4.1 times. Designed by a standard 180 nm CMOS technology, the DLL occupies an area of 106.1×93.3 μ m. It achieves low power consumption of 1.89mW at 500 MHz, and the root mean square (rms) jitter and P-P jitter are 1.01 and 6.26 ps, respectively.
 
@@ -45,7 +45,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://ieeexplore.ieee.org/document/10233876'
+url_source: 'https://ieeexplore.ieee.org/document/11014511'
 url_video: ''
 
 # Featured image
