@@ -33,7 +33,7 @@ publication_short: "*IEEE Transactions on Very Large Scale Integration (VLSI) Sy
 abstract: A modified self-biased β -multiplier-based current reference (CR) circuit is proposed for ultralow-power Internet of Things (IoT) application and is realized without any resistors, bipolar junction transistors (BJTs), or operational amplifiers (OPAs). The proposed CR circuit directly generates the reference current from a modified β -multiplier, which is biased by a stacked diode-connected MOS transistor (SDMT)-based compensated through a complementary-to-absolute temperature (CTAT) voltage. The proposed CR is implemented in a standard 0.18- μ m CMOS process with an active area of 0.0069 mm2 and almost all transistors operate in the subthreshold region. Measurement results show that the temperature coefficient (TC) of the CR is 248 ppm/°C in a temperature range from −40 ∘ C to 125 ∘ C. The proposed CR exhibits a line sensitivity (LS) of 0.33%/V within the supply voltage range of 0.8–1.4 V. The output of the CR at room temperature ( 25 ∘ C) is 1.84 nA with a power consumption of 3.7 nW.
 
 # Summary. An optional shortened abstract.
-summary:This brief proposes a subthreshold CMOS CR circuit based on a modified self-biased β -multiplier implemented in a standard 0.18-μ m CMOS process for ultralow-power applications. 
+summary: This brief proposes a subthreshold CMOS CR circuit based on a modified self-biased β -multiplier implemented in a standard 0.18-μ m CMOS process for ultralow-power applications. 
 
 tags:
 - Source Themes
