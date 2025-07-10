@@ -23,8 +23,8 @@ publishDate: "2023-10-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Sensors Journal ( Early Access )*. 2023;44(10): 1664-1667."
-publication_short: "*IEEE Sensors Journal ( Early Access )*. 2023;44(10): 1664-1667"
+publication: "*IEEE Sensors Journal ( Early Access )*."
+publication_short: "*IEEE Sensors Journal ( Early Access )*."
 
 abstract: Low-transconductance (Gm) amplifiers are essential for implementing low-frequency continuous-time filters, a critical aspect for biomedical sensors. This paper proposes a low-power, low-Gm amplifier based on the bootstrap-body-input technique. The input topology of the transconductor consists of two transistors with body-inputs and a source degeneration resistor. The source of the two transistors connected to the resistor, which bootstraps the terminal voltages and expands the input range. To further reduce the Gm value of the transconductor, an area-efficient series-parallel current mirror is adopted. The transconductor was fabricated in a 0.18 μm CMOS process. Measurement results show that the bootstrap-body-input transconductor achieves a reduction in Gm value of more than 1200 times over conventional body-input transconductor. The proposed transconductor features a tuning range of 27 to 581 pA/V at 0.8 V supply voltage, with a power consumption of only 0.88 nW. The input-referred noise is measured at 25.4 μV/√Hz at 100 Hz and the power supply rejection ratio exceeds 56 dB. Tuning tests reveal that the proposed transconductor allows for programming the control voltage of the remaining gate terminals to adjust the Gm value, compensating for variations in process, voltage, and temperature.
 
@@ -44,7 +44,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://ieeexplore.ieee.org/document/10233876'
+url_source: 'https://ieeexplore.ieee.org/document/11037332'
 url_video: ''
 
 # Featured image
