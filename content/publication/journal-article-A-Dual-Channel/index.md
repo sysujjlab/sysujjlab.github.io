@@ -22,8 +22,8 @@ publishDate: "2023-10-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Instrumentation and Measurement ( Volume: 74)*. 2023;44(10): 1664-1667."
-publication_short: "*IEEE Transactions on Instrumentation and Measurement ( Volume: 74)*. 2023;44(10): 1664-1667"
+publication: "*IEEE Transactions on Instrumentation and Measurement ( Volume: 74)*."
+publication_short: "*IEEE Transactions on Instrumentation and Measurement ( Volume: 74)*."
 
 abstract: The escalating importance of temperature monitoring across industrial production, medical diagnostics, and environmental surveillance poses significant challenges for temperature sensing technologies, particularly in detection precision, electromagnetic interference resilience, and environmental adaptability. In response to these challenges, this article proposes an integrated solution for fluorescence optical fiber temperature sensors, based on a 0.18 μ m CMOS process. The proposed approach uses a dual-channel pseudo-differential analog frontend (AFE) based on a pre-current transimpedance amplifier (PC-TIA). The CMOS AFE employs a novel zero-bias single photodiode (PD) fluorescence detection architecture, enabling differential light detection from a single incident light beam. This results in improved system reliability and measurement accuracy. The proposed pre-current amplifier uses complementary transistors to achieve highly linear amplification of differential current signals. A transimpedance amplifier converts the amplified current into a voltage signal. By employing a dc offset cancellation (DCOC), it effectively solves the issues related to the dc offset voltage at the input stage and the dark current of the PD. Measurement results indicate that the proposed CMOS AFE circuit attains a transimpedance gain of 152.03 dB Ω , along with a −3 dB bandwidth of 4 kHz and an input-referred noise (IRN) current spectral density of 56.3 fA/ √ Hz. These parameters highlight the system’s exceptional capability for high-precision temperature measurements. The prototype chip achieved a maximum differential output swing of 3.25 Vpp,out, validated using both electrical and optical measurement setups. With a temperature range from −30 ∘ C to 100 ∘ C, the proposed temperature sensor prototype exhibited an average error of −0.19 ∘ C and a measurement standard deviation of 0.29 ∘ C.
 
@@ -43,7 +43,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://ieeexplore.ieee.org/document/10233876'
+url_source: 'https://ieeexplore.ieee.org/document/11015579'
 url_video: ''
 
 # Featured image
