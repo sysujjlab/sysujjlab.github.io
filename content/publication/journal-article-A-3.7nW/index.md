@@ -27,8 +27,8 @@ publishDate: "2023-10-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Very Large Scale Integration (VLSI) Systems ( Volume: 33, Issue: 7, July 2025)*. 2023;44(10): 1664-1667."
-publication_short: "*IEEE Transactions on Very Large Scale Integration (VLSI) Systems ( Volume: 33, Issue: 7, July 2025) *. 2023;44(10): 1664-1667"
+publication: "*IEEE Transactions on Very Large Scale Integration (VLSI) Systems ( Volume: 33, Issue: 7, July 2025)*."
+publication_short: "*IEEE Transactions on Very Large Scale Integration (VLSI) Systems ( Volume: 33, Issue: 7, July 2025) *."
 
 abstract: A modified self-biased β -multiplier-based current reference (CR) circuit is proposed for ultralow-power Internet of Things (IoT) application and is realized without any resistors, bipolar junction transistors (BJTs), or operational amplifiers (OPAs). The proposed CR circuit directly generates the reference current from a modified β -multiplier, which is biased by a stacked diode-connected MOS transistor (SDMT)-based compensated through a complementary-to-absolute temperature (CTAT) voltage. The proposed CR is implemented in a standard 0.18- μ m CMOS process with an active area of 0.0069 mm2 and almost all transistors operate in the subthreshold region. Measurement results show that the temperature coefficient (TC) of the CR is 248 ppm/°C in a temperature range from −40 ∘ C to 125 ∘ C. The proposed CR exhibits a line sensitivity (LS) of 0.33%/V within the supply voltage range of 0.8–1.4 V. The output of the CR at room temperature ( 25 ∘ C) is 1.84 nA with a power consumption of 3.7 nW.
 
@@ -48,7 +48,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://ieeexplore.ieee.org/document/10233876'
+url_source: 'https://ieeexplore.ieee.org/document/10929646'
 url_video: ''
 
 # Featured image
