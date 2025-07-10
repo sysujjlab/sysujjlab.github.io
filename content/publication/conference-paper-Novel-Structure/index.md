@@ -29,8 +29,8 @@ publishDate: '2024-12-23T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2025 3rd International Conference on Integrated Circuits and Communication Systems (ICICACS)*, 2024
-publication_short: In *2025 3rd International Conference on Integrated Circuits and Communication Systems (ICICACS)*, 2024
+publication: In *2025 3rd International Conference on Integrated Circuits and Communication Systems (ICICACS)*
+publication_short: In *2025 3rd International Conference on Integrated Circuits and Communication Systems (ICICACS)*
 
 abstract: This article presents an energy-efficient dynamic CMOS comparator. By incorporating two additional NMOS transistors into the conventional Strong ARM (SA) structure, this design significantly reduces energy consumption as the differential voltage increases. Furthermore, it markedly improves key technical parameters such as precision, offset, and noise. Manufactured using a 180 nm CMOS process, the proposed comparator achieves 84 µV input-referred noise while consuming only 4.683-nW per comparison under a 1.2-V supply. This results in a figure of merit (FoM) of 0.033 nJ.µV2, representing a 53.36% reduction in power consumption compared to the conventional SA latch. These improvements are essential for energy-sensitive applications, enhancing system performance and minimizing power usage.
 
@@ -53,7 +53,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://ieeexplore.ieee.org/document/10831599'
+url_source: 'https://ieeexplore.ieee.org/document/10968119'
 url_video: ''
 
 # Featured image
