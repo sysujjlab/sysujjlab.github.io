@@ -13,8 +13,8 @@ sections:
       user_groups:
           - Professors
           - Graduate Students
-          - Master's Students
           - PhD Students
+          - Master's Students
           - Graduated Students
           - Principal Investigators
           - Researchers
