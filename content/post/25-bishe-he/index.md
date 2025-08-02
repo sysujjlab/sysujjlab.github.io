@@ -1,9 +1,9 @@
 ---
-title: Junhao He's  thesis was recognized as Outstanding Undergraduate Thesis at the college-level  for the Class of 2025.
+title: Junhao He's  thesis was recognized as Outstanding Undergraduate Thesis at the school-level  for the Class of 2025.
 date: 2025-08-02
 ---
 
-Congratulations to Junhao He for his thesis being recognized as Outstanding Undergraduate Thesis at the college-level  for the Class of 2025.
+Congratulations to Junhao He for his thesis being recognized as Outstanding Undergraduate Thesis at the school-level  for the Class of 2025.
 
 <!--more-->
 
