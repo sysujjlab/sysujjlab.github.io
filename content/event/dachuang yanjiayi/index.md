@@ -23,7 +23,7 @@ abstract: 'Jiayi Yan and her team received an Excellence Award in the 2021 natio
 
 # Schedule page publish date (NOT talk date).
 #publishDate: '2022-01-01T00:00:00Z'
-publishDate: '2022-01-01'
+publishDate: '2022-01-01T'
 
 
 authors: []
