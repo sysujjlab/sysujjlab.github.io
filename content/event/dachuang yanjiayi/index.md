@@ -19,11 +19,12 @@ abstract: "Jiayi Yan and her team received an Excellence Award in the 2021 natio
 #   End time can optionally be hidden by prefixing the line with `#`.
 #date: '2024-11-05T13:00:00Z'
 #date_end: '2024-11-05T13:00:00Z'
-all_day: true
+#all_day: true
 
 # Schedule page publish date (NOT talk date).
 #publishDate: '2022-01-01T00:00:00Z'
-publishDate: '2022-01-01'
+#publishDate: '2022-01-01'
+show_date: false
 
 authors: []
 tags: []
