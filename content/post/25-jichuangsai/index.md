@@ -1,6 +1,6 @@
 ---
 title: Yafei Zhang won the Third Prize in the South China Division of the 2025 China College IC Competition
-date: 2025-8-2
+date: 2025-08-02
 ---
 
 Congratulations to Yafei Zhang for winning the Third Prize in the South China Division of the 2025 China College IC Competition.
