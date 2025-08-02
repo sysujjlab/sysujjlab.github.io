@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduated Students
+  - Graduated Bachelor students under Final Year Project supervision
 ---
 
 1. Jiayi Yan, enrolled in 2019, is a direct Ph.D. student at The Chinese University of Hong Kong now.
