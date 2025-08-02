@@ -22,7 +22,7 @@ abstract: 'We have gathered some of the conversational generative AI available i
 #all_day: true
 
 # Schedule page publish date (NOT talk date).
-#publishDate: '2024-11-05T13:00:00Z'
+publishDate: '2022-01-01T00:00:00Z'
 
 authors: []
 tags: []
