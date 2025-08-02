@@ -16,6 +16,7 @@ sections:
           - PhD Students
           - Master's Students
           - Graduated Students
+          - Graduated Bachelor students under Final Year Project supervision
           - Principal Investigators
           - Researchers
           - Administration
