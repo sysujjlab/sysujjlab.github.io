@@ -70,7 +70,7 @@ user_groups:
 
 1. Jiayi Yan, enrolled in 2019, is a direct Ph.D. student at The Chinese University of Hong Kong now.
 
-2. Xuan Shu, enrolled in 2019, is a direct Ph.D. student at Tsinghua University now.
+2. Xuanshen Shu, enrolled in 2019, is a direct Ph.D. student at Tsinghua University now.
 
 3. Huan Wu, enrolled in 2019, obtained a master's degree from Nanyang Technological University.
 
