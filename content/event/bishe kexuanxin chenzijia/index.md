@@ -13,7 +13,7 @@ title: Outstanding Undergraduate Theses at the college-level for the Class of 20
   # country: United States
 
 #summary: Shared AI Announcement
-abstract: "Xuanxin Ke and Zijia Chen's undergraduate theses were recognized as Outstanding Undergraduate Theses at the college-level for the Class of 2024."
+abstract: "Xuanxin Ke and Zijia Chen's undergraduate theses were recognized as Outstanding Undergraduate Theses at the school-level for the Class of 2024."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
