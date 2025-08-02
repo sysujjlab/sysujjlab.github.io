@@ -13,7 +13,7 @@ title: Excellence Award in the 2021 national-level College Students' Innovation 
   # country: United States
 
 #summary: Shared AI Announcement
-abstract: 'Jiayi Yan and her team received an Excellence Award in the 2021 national-level College Students' Innovation and Entrepreneurship Competition.'
+abstract: "Jiayi Yan and her team received an Excellence Award in the 2021 national-level College Students' Innovation and Entrepreneurship Competition."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
