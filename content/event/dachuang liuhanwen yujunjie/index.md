@@ -13,7 +13,7 @@ title: Excellence Awards in the 2024 national-level College Students' Innovation
   # country: United States
 
 #summary: Shared AI Announcement
-abstract: "Hanwen Liu and his team, as well as Junjie Yu and his team, received an Excellence Awards in the 2024 school-level College Students' Innovation and Entrepreneurship Competition."
+abstract: "Hanwen Liu and his team, as well as Junjie Yu and his team, received an Excellence Awards in the 2024 university-level College Students' Innovation and Entrepreneurship Competition."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
