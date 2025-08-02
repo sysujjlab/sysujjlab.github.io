@@ -1,5 +1,5 @@
 ---
-title: Shared Conversational AI Within The Group 
+title: Excellence Award in the 2021 national-level College Students' Innovation and Entrepreneurship Competition
 
 #event: Shared AI Website
 #event_url: https://chatpro.sysujjlab.top
@@ -13,7 +13,7 @@ title: Shared Conversational AI Within The Group
   # country: United States
 
 #summary: Shared AI Announcement
-abstract: 'We have gathered some of the conversational generative AI available in the market based on the NextChat template, including ChatGPT (GPT-4o, GPT-3.5), Claude 3, and Gemini. Click on "Share AI Website" below to access them. After entering the website, you need to click "Login" and enter the password to use it. The password is the WIFI password for room 303. Our teacher will provide ample money of subscription quotas, so please make good use of this tool for research.'
+abstract: 'Jiayi Yan and her team received an Excellence Award in the 2021 national-level College Students' Innovation and Entrepreneurship Competition.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -22,7 +22,9 @@ abstract: 'We have gathered some of the conversational generative AI available i
 #all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-01-01T00:00:00Z'
+#publishDate: '2022-01-01T00:00:00Z'
+publishDate: '2022-01-01'
+
 
 authors: []
 tags: []
