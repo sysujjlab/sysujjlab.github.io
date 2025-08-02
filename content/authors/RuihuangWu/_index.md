@@ -68,4 +68,4 @@ user_groups:
   - Graduated Students
 ---
 
-Ruihuang Wu received the B.Sc. degree in xxx major from South China University of Technology, Guangzhou, China, in 2021, and the M.Sc. degree in electronic information from Sun Yat-sen University, Shenzhen, China, in 2024. He is currently an analog design engineer with Shenzhen Pango Microsystems Co., Ltd., Shenzhen, China.
+Ruihuang Wu received the B.Sc. degree in xxx major from South China University of Technology, Guangzhou, China, in 2021, and the M.Sc. degree in electronic information from Sun Yat-sen University, Shenzhen, China, in 2024. He is currently an analog IC design engineer with Shenzhen Pango Microsystems Co., Ltd., Shenzhen, China.
