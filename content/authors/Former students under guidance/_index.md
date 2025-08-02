@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Former students under guidance
+title: Graduated Bachelor students under Final Year Project supervision
 
 # Full Name (for SEO)
 #first_name: 
