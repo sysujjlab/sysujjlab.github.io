@@ -19,7 +19,7 @@ abstract: "Renming Liu and his team received an Excellence Award in the 2022 nat
 #   End time can optionally be hidden by prefixing the line with `#`.
 #date: '2024-11-05T13:00:00Z'
 #date_end: '2024-11-05T13:00:00Z'
-#all_day: true
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 #publishDate: '2022-01-01T00:00:00Z'
