@@ -13,7 +13,7 @@ title: Outstanding Undergraduate Theses at the school-level and the college-leve
   # country: United States
 
 #summary: Shared AI Announcement
-abstract: "Yafei Zhang's and Junhao He’s undergraduate theses were recognized as Outstanding Undergraduate Theses at the school-level and the college-level, respectively, for the Class of 2025."
+abstract: "Yafei Zhang's and Junhao He’s undergraduate theses were recognized as Outstanding Undergraduate Theses at the university-level and the college-level, respectively, for the Class of 2025."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
