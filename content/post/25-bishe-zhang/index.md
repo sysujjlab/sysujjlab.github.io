@@ -1,6 +1,6 @@
 ---
 title: Yafei Zhang's  thesis was recognized as Outstanding Undergraduate Thesis at the school-level  for the Class of 2025.
-date: 2025-8-2
+date: 2025-08-02
 ---
 
 Congratulations to Yafei Zhang for her thesis being recognized as Outstanding Undergraduate Thesis at the school-level  for the Class of 2025.
