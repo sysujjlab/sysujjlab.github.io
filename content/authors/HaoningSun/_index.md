@@ -65,7 +65,7 @@ user_groups:
   - Graduated Students
 ---
 
-Haoning Sun received the B.Sc. degree from Sun Yat-sen University, Shenzhen, China, in 2022, and the M.Sc. degree in Electronic Information from Sun Yat-sen University, Shenzhen, China, in 2025. He is currently working as a chip engineer at HiSilicon, Huawei, focusing on integrated circuit development.
+Haoning Sun received the B.Sc. degree from Sun Yat-sen University, Shenzhen, China, in 2022, and the M.Sc. degree in Electronic Information from Sun Yat-sen University, Shenzhen, China, in 2025. He is currently working as a chip engineer at HiSilicon, Huawei(华为海思), focusing on integrated circuit development.
 
 
 His research interests include circuit design of analog to digital converter for biomedical applications and noise shaping SAR ADC.
