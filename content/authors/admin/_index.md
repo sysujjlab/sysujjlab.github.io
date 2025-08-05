@@ -11,6 +11,7 @@ superuser: true
 
 # Role/position
 role: Associate Professor
+note: "*"
 
 # Organizations/Affiliations
 organizations:
