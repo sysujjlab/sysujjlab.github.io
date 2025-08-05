@@ -8,7 +8,7 @@ authors:
 - BingjunXiong
 - JianGuan
 
-# author_notes:
+author_notes: ["","*Corresponding author","","","",""]
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2025-02-12T00:00:00Z"
