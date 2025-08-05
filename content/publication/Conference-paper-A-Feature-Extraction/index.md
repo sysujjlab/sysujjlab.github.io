@@ -11,7 +11,7 @@ authors:
   - admin
 
 # Author notes (optional)
-author_notes: true
+author_notes: ["*"]
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
