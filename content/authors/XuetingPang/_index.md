@@ -68,4 +68,4 @@ user_groups:
   - Graduated Students
 ---
 
-Xueting Pang received the B.Sc. degree from Hainan University, Hainan, China, in 2020, and the M.Sc. degree in information and communication engineering from Sun Yat-sen University, Shenzhen, China, in 2023. She is currently an analog IC design engineer at Semiconductor Manufacturing International Corporation.
+Xueting Pang received the B.Sc. degree from Hainan University, Hainan, China, in 2020, and the M.Sc. degree in information and communication engineering from Sun Yat-sen University, Shenzhen, China, in 2023. She is currently an analog IC design engineer at Semiconductor Manufacturing International Corporation（中芯国际）.
