@@ -10,7 +10,7 @@ authors:
   - Huan Wu
   - admin
 
-# Author notes (optional)
+author_notes: ["","","","*Corresponding author"]
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
