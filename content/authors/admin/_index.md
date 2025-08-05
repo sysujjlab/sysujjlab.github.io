@@ -76,6 +76,6 @@ user_groups:
   - Professors
 ---
 
-Jingjing Liu (Member, IEEE) received the B.Eng. (Hons.) and M.Eng. degrees from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2003 and 2005, respectively, and the D.Phil. degree from the Department of Engineering Science, University of Oxford, Oxford, U.K., in 2009.
+Jingjing Liu (Member, IEEE) received the B.Eng. (First Class Honour) and M.Eng. degrees from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2003 and 2005, respectively, and the D.Phil. degree from the Department of Engineering Science, University of Oxford, Oxford, U.K., in 2009.
 
 From 2009 to 2010, he was a Postdoctoral Research with the University of Oxford. He was a Researcher with Peking University Shenzhen Research Institution for a few years. He is currently an Associate Professor with Sun Yat-sen University, Shenzhen, China. His research interests include low-power smart micro-sensor integrated circuit design, image sensors, biomedical sensors, and energy harvesting circuits. He is a Guest Editor of IEEE Journal of Selected Areas in Sensors.
