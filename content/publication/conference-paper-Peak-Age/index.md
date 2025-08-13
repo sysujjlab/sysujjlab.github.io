@@ -28,8 +28,8 @@ publishDate: "2023-01-18T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2022 IEEE 96th Vehicular Technology Conference (VTC2022-Fall)*, 2024
-publication_short: In *2022 IEEE 96th Vehicular Technology Conference (VTC2022-Fall)*, 2024
+publication: In *2022 IEEE 96th Vehicular Technology Conference (VTC2022-Fall)*
+publication_short: In *2022 IEEE 96th Vehicular Technology Conference (VTC2022-Fall)*
 
 abstract: The timeliness of information is of capital importance for numerous Internet of Things (IoT) services. To improve the information freshness in large-scale distributed IoT systems, this paper focuses on the Peak Age of Information (PAoI) optimization of slotted Aloha networks. Specifically, by assuming the first-come-first-served (FCFS) service discipline and Bernoulli packet arrival model, the mean PAoI is characterized and then optimized by either individually tuning the channel access probability or jointly tuning the channel access probability and packet arrival rate of each sensor. The explicit expressions of optimal parameter settings and the corresponding minimum PAoI are obtained, based on which the age-throughput tradeoff is evaluated. The analysis is verified by simulations. It is found that in the massive access scenarios, the minimum PAoI linearly increases with the network scale in both individual optimization and joint optimization cases, while the latter attains a lower increasing rate, better age performance, and less throughput loss.
 
