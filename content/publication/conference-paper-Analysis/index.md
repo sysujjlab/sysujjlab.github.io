@@ -1,5 +1,5 @@
 ---
-title: 'Peak Age of Information Optimization of Slotted Aloha'
+title: 'Analysis of LO leakage in CMOS Gilbert mixer by cadence spectreRF for direct conversion application'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -27,8 +27,8 @@ publishDate: "2005-04-11T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The 2004 IEEE Asia-Pacific Conference on Circuits and Systems, 2004. Proceedings.*, 2024
-publication_short: In *The 2004 IEEE Asia-Pacific Conference on Circuits and Systems, 2004. Proceedings.*, 2024
+publication: In *The 2004 IEEE Asia-Pacific Conference on Circuits and Systems, 2004. Proceedings.*
+publication_short: In *The 2004 IEEE Asia-Pacific Conference on Circuits and Systems, 2004. Proceedings.*
 
 abstract: The DC offset caused by the LO-RF feedthrough in the mixer of a direct conversion receiver is a serious problem. The LO leakage caused by the LO mismatch in double-balanced CMOS Gilbert mixers is examined and analyzed in four cases, no LO mismatch, LO phase mismatch only, LO amplitude mismatch only and the combination of the two mismatches. The relation between the mismatch and the LO leakage is derived. Simulation results shown are consistent with the analysis. 
 
