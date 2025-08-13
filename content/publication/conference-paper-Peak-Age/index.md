@@ -20,7 +20,7 @@ authors:
 doi: "10.1109/VTC2022-Fall57202.2022.10012799"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-1800:00:00Z"
+publishDate: "2023-01-18T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
