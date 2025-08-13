@@ -10,7 +10,7 @@ authors:
 - ZhipengLi
 - JianGuan
 
-# author_notes:
+author_notes: ["","*Corresponding author","","","","","",""]
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2025-04-28T00:00:00Z"
