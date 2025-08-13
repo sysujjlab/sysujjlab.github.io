@@ -29,8 +29,8 @@ publishDate: "2007-09-25T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Free-Space Laser Communications VII*, 2024
-publication_short: In *Free-Space Laser Communications VII*, 2024
+publication: In *Free-Space Laser Communications VII*
+publication_short: In *Free-Space Laser Communications VII*
 
 abstract: Optical wireless channels that use modulated retro-reflectors can provide low-data rate communications to self-powered 'smart-dust' motes. The retro-reflectors are illuminated using a base station that incorporates diffractive beamsteering to direct radiation onto the motes, and these return the radiation to an imaging receiver within the base station. The motes consist of a photodiode to provide power, a novel logarithmic receiver to receive data from the base station, and a modulating retro-reflector to send information from the mote to the base station. Several of the components elements of this system have been implemented and tested. In this paper we report a logarithmic receiver that can be self powered by the source communicating with it, and a retro-reflecting LC modulator component that operates at 30b/s when driven at 0.7V. In addition an overall system model, together with the challenges for future work are presented.
 
