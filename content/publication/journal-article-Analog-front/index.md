@@ -3,7 +3,8 @@ title: "Analog Front-End Input-Impedance Boosting Techniques for Bio-Potential M
 authors:
 - FengYan
 - admin
-# author_notes:
+
+author_notes: ["","*Corresponding author"]
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2024-02-27T00:00:00Z"
