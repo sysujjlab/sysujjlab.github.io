@@ -19,7 +19,7 @@ authors:
 doi: "10.1109/APCCAS.2004.1412756"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2005-04-1100:00:00Z"
+publishDate: "2005-04-11T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
