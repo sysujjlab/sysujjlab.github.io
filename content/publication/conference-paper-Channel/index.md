@@ -28,8 +28,8 @@ publishDate: "2023-09-05T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2023 IEEE/CIC International Conference on Communications in China (ICCC)*, 2024
-publication_short: In *2023 IEEE/CIC International Conference on Communications in China (ICCC)*, 2024
+publication: In *2023 IEEE/CIC International Conference on Communications in China (ICCC)*
+publication_short: In *2023 IEEE/CIC International Conference on Communications in China (ICCC)*
 
 abstract: Extremely large-scale massive multiple-input multiple-output (XL-MIMO) is the key technique for future 6G communications. However, the extremely large aperture arrays make the accurate channel state information (CSI) acquisition more difficult. To solve this problem, we focus on the location information (i.e., the angle and range) of the scatters in the far-field and near-field areas, and propose a hybrid-field channel estimation algorithm for the XL-MIMO system. Specifically, firstly by simplifying the hybrid-field channel model, we transform the channel estimation problem into the position parameters estimation problem for the far-field and near-field scatters. Then, we propose a hybrid-field channel estimation algorithm based on the estimation of the angle and range of the different scatters. Finally, numerical results show the superior performances of the proposed algorithm in comparison to the existing methods.
 
