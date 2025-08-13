@@ -8,7 +8,8 @@ authors:
 - FengYan
 - JianYang
 - YafeiZhang
-# author_notes:
+
+author_notes: ["","*Corresponding author","","","","",""]
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2025-05-28T00:00:00Z"
