@@ -20,7 +20,7 @@ authors:
 doi: "10.1109/ICCC57788.2023.10233609"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-09-0500:00:00Z"
+publishDate: "2023-09-05T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
