@@ -32,8 +32,8 @@ publishDate: "2023-05-19T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2023 6th International Conference on Circuits, Systems and Simulation (ICCSS 2023)*, 2024
-publication_short: In *2023 6th International Conference on Circuits, Systems and Simulation (ICCSS 2023)*, 2024
+publication: In *2023 6th International Conference on Circuits, Systems and Simulation (ICCSS 2023)*
+publication_short: In *2023 6th International Conference on Circuits, Systems and Simulation (ICCSS 2023)*
 
 abstract: This work presents a phase detector (PD) having dead-zone free and static phase offset improvement performance. The proposed phase detector inherits the low power consumption advantage of the conventional phase detector using two true-single-phase clocking (TSPC) DFFs. It also effectively reduces the static phase offset, even in the presence of inevitable charge pump current mismatch. And the dead-zone problem of conventional TSPC PD is overcome by using a falling edge delay inverter. The PD is implemented using a standard 180nm CMOS technology. The dimension of the PD’s layout is 11μm×16μm. Post-layout simulation shows that the power consumption is 53.8μW at 250MHz and 160μW at 800MHz. It achieves tiny static phase offset even if the charge pump has a 3.8% current mismatch.
 
