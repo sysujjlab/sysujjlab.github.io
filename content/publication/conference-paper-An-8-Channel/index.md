@@ -30,8 +30,8 @@ publishDate: "2019-07-08T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2019 IEEE International Conference on Electron Devices and Solid-State Circuits (EDSSC)*, 2024
-publication_short: In *2019 IEEE International Conference on Electron Devices and Solid-State Circuits (EDSSC)*, 2024
+publication: In *2019 IEEE International Conference on Electron Devices and Solid-State Circuits (EDSSC)*
+publication_short: In *2019 IEEE International Conference on Electron Devices and Solid-State Circuits (EDSSC)*
 
 abstract: This paper presents a single chip integrated 8-channel biomedical signal readout front-end circuit for wearable EEG acquisition system following a low power and high dynamic range (DR) strategy. The proposed 8-channel hybrid sigma-delta analog-to-digital convertor (HSD-ADC) contains a programmable-gain input interface in the first stage to allow the users to optimize their system with different ranges of input level. The time-interleaving technique is used on the second channel-shared stage for low power dissipation. The prototype chip is designed with 65 nm CMOS technology. Post-layout simulation results show a SNDR of 83.7 dB and 98.5 dB dynamic range with S5 μW power dissipation per channel at 1.2 V operation.
 
