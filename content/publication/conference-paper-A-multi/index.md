@@ -24,7 +24,7 @@ authors:
 doi: "10.1109/APMC.2013.6695020"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2014-01-0200:00:00Z"
+publishDate: "2014-01-02T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
