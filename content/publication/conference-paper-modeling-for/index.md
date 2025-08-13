@@ -6,13 +6,13 @@ title: 'Modeling for Low Power Bypass Window SAR ADC Based on Highest Weight Cap
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - KangkangSun
-  - Huan Wu
+  - HuanWu
   - JianGuan
   - ZhipengLi
   - admin
 
 # Author notes (optional)
-# author_notes:
+author_notes: ["","","","","*Corresponding author"]
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
