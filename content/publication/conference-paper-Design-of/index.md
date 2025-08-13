@@ -5,17 +5,17 @@ title: 'Design of 26 GHz On-Chip Antenna for Microsensors Based on a Standard 0.
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Zhuohan Sun
+  - ZhuohanSun
   - JianGuan
   - ZhipengLi
   - XuetingPang
-  - Zhihang Xie
+  - ZhihangXie
   - admin
-  - Yuan Jiang
-  - Mingwei Huang
+  - YuanJiang
+  - MingweiHuang
 
 # Author notes (optional)
-# author_notes:
+author_notes: ["","","","","","*Corresponding author","",""]
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
