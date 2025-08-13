@@ -29,8 +29,8 @@ publishDate: "2010-08-24T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Free-Space Laser Communications X*, 2024
-publication_short: In *Free-Space Laser Communications X*, 2024
+publication: In *Free-Space Laser Communications X*
+publication_short: In *Free-Space Laser Communications X*
 
 abstract: The 'internet of things' will require very low power wireless communications, preferably using sensors that scavenge power from their environment. Free space optics allows communications over long ranges, with simple transceivers at each end, offering the possibility of low energy consumption. In addition there can be sufficient energy in the communications beam to power simple terminals. In this paper we report experimental results from an architecture that achieves this. A base station that tracks sensors in its coverage area and communicates with them using low divergence optical beams is presented. Sensor nodes use modulated retro-reflectors to communicate with the base station, and the nodes are powered by the illuminating beam. The paper presents design and implementation details, as well as future directions for this work.
 
