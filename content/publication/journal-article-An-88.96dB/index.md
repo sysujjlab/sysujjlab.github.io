@@ -7,7 +7,8 @@ authors:
 - ZhipengLi
 - LiangShi
 - JunhaoHe
-# author_notes:
+
+author_notes: ["*Corresponding author","","","","",""]
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2025-05-21T00:00:00Z"
