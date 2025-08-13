@@ -24,7 +24,7 @@ authors:
 doi: "10.1088/1742-6596/2613/1/012018"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-05-1900:00:00Z"
+publishDate: "2023-05-19T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
