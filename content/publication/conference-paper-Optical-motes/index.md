@@ -21,7 +21,7 @@ authors:
 doi: "https://doi.org/10.1117/12.735599"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2007-09-2500:00:00Z"
+publishDate: "2007-09-25T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
