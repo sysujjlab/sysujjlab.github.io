@@ -27,8 +27,8 @@ publishDate: '2023-09-05T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2023 IEEE/CIC International Conference on Communications in China (ICCC)*, 2024
-publication_short: In *2023 IEEE/CIC International Conference on Communications in China (ICCC)*, 2024
+publication: In *2023 IEEE/CIC International Conference on Communications in China (ICCC)*
+publication_short: In *2023 IEEE/CIC International Conference on Communications in China (ICCC)*
 
 abstract: As an essential aspect of cognitive radio (CR), spectrum sensing has always been a research hotspot. In a multi-antenna scenario, the received signals from each antenna exhibit strong spatial correlation. Therefore, the covariance absolute value (CAV) detection algorithm is commonly employed, although its performance at low signal-to-noise ratio (SNR) needs improvement. This paper proposes an improved CAV detection algorithm that leverages generalized stochastic resonance (GSR) in multi-antenna scenarios. The research demonstrates that the performance of the CAV algorithm can be enhanced by introducing an appropriate direct current signal. By maximizing the probability of detection for a fixed probability of false alarm, the optimal amplitude of the additional direct current signal can be determined. Unlike previous work, this paper derives more exact formulas and considers a more general random signal model and a multi-antenna scenario. Theoretical analysis and simulation results confirm that the proposed method outperforms traditional CAV detection methods, particularly under low SNR conditions.
 
