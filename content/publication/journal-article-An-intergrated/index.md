@@ -2,14 +2,15 @@
 title: "An Integrated Fluorescence Optical Fiber Temperature Sensor Front-End Based on a Ring-Gate-Isolated Photodiode"
 authors:
 - BingjunXiong
-- Jian Yang
-- Yang Wang
+- JianYang
+- YangWang
 - JianGuan
 - FengYan
-- Qian Zhang
+- QianZhang
 - Bhaskar Choubey
 - admin
-# author_notes:
+
+author_notes: ["","","","","","","","*Corresponding author"]
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2024-04-15T00:00:00Z"
