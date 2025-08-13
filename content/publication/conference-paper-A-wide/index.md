@@ -11,11 +11,11 @@ authors:
   - FengYan
   - YuxuanHuang
   - admin
-  - Jin He
-  - Yiqun Wei
+  - JinHe
+  - YiqunWei
 
 # Author notes (optional)
-# author_notes:
+author_notes: ["","","","","","*Corresponding author","*Corresponding author",""]
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
