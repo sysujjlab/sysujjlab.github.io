@@ -32,8 +32,8 @@ publishDate: "2014-01-02T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2013 Asia-Pacific Microwave Conference Proceedings (APMC)*, 2024
-publication_short: In *2013 Asia-Pacific Microwave Conference Proceedings (APMC)*, 2024
+publication: In *2013 Asia-Pacific Microwave Conference Proceedings (APMC)*
+publication_short: In *2013 Asia-Pacific Microwave Conference Proceedings (APMC)*
 
 abstract: In this paper, a novel multi-mode dielectric resonator sandwiched by a Jerusalem Cross metal structure in the middle is proposed. This resonator has one degenerate dual modes and another nearby mode. These three modes are smartly used in a cylindrical cavity to generate two transmission zeros and one transmission pole. Therefore a single-cavity multi-mode bandpass filter is designed. In order to excite the three modes, two ports are placed orthogonally and another two tuning screws are needed to provide similar capacitance effects as the port pins. Simulation results show that the cavity with the resonator successfully becomes a bandpass filter and measurement results also prove this concept.
 
