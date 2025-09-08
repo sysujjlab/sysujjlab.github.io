@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Graduated Students
 ---
 
 Kangkang Sun received the B.Sc. degree in xxx major from Chongqing University of Posts and Telecommunications, Chongqing, China, in time, and the M.Sc. degree in xxx major from Hefei University of Technology, Hefei, China, in time. He is currently pursuing the Ph.D. degree with Sun Yat-sen University, Shenzhen, China.
