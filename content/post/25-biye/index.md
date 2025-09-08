@@ -1,6 +1,6 @@
 ---
 title: "Celebrating the Graduation of Four Ph.D. Seniors in Chip Design"
-date: 2025-09-09
+date: 2025-09-08
 ---
 
 Congratulations to Jian Guan, Zhipeng Li, Kangkang Sun and Feng Yan for their successful Ph.D. graduation.
