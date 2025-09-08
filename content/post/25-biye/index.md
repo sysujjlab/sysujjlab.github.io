@@ -1,5 +1,5 @@
 ---
-title: “Celebrating the Graduation of Four Ph.D. Seniors in Chip Design”
+title: "Celebrating the Graduation of Four Ph.D. Seniors in Chip Design"
 date: 2025-09-09
 ---
 
