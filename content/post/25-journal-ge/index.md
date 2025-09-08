@@ -1,6 +1,6 @@
 ---
 title: Weijie Ge's  paper, "A Metal-Resilient, Remote, Wideband UHF RFID Tag Employing RlS for Prefabricated Construction Component Traceability" has been accepted for publication in the lEEE Internet of Things Journal.
-date: 2025-09-09
+date: 2025-09-07
 ---
 
 Congratulations to Weijie Ge for his paper being accepted.
