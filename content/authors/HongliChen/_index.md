@@ -18,19 +18,19 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include circuit design.
+bio: My research interest is Mixed-Signal Processing Chip.
 
 interests:
-  - Optical Receivers
-  - References
+  - Mixed-Signal Processing Chip
+
 
 education:
   courses:
     - course: MSc
-      institution: Hunan Normal University
+      institution: Henan University
       year: time~time
     - course: BSc
-      institution: Southwest University of Science and Technology
+      institution: Henan University of Engineering
       year: time~time
 
 # Social/Academic Networking
@@ -68,6 +68,6 @@ user_groups:
   - PhD Students
 ---
 
-Bingjun Xiong received the B.Sc. degree in xxx major from Southwest University of Science and Technology, Mianyang, China, in time, and the M.Sc. degree in xxx major from Hunan Normal University, Changsha, China, in time. He is currently pursuing the Ph.D. degree with Sun Yat-sen University, Shenzhen, China.
+Hongli Chen received the B.Sc. degree in Electronic Information Science and Technology major from Henan University of Engineering, Zhengzhou, China, in time, and the M.Sc. degree in Optoelectronic Information Engineering major from Henan University, Zhengzhou, China, in time. He is currently pursuing the Ph.D. degree in Sun Yat-sen University, Shenzhen, China.
 
-His current research interests include circuit design of optical receivers and references.
+His current research interest is Mixed-Signal Processing Chip.
