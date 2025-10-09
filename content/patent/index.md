@@ -1,6 +1,6 @@
 ---
-title: Contact
-date: 2022-10-24
+title: 专利
+date: 2025-10-09
 
 type: landing
 
@@ -9,28 +9,27 @@ sections:
     content:
       title: Patent
       text: |-
-        We are always looking for postgraduate and Ph.D. students who have a strong interest in integrated circuit design, possess strong self-motivation, and have a solid academic foundation. If you are interested, please contact me via the email address below.
-
-        Additionally, we are recruiting postdocs or full-time researchers with MPW tape-out experience and a record of high-quality publications. If you are interested, please send your CV and representative works to my email.
-      
-
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contactyi.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+        以下是我们实验室发明的专利列表。
+        | 专利名称 | 发明人 |
+        | :-------- | :------ |
+        | 一种带有温度补偿的低电压低功耗基准电压电路 | 刘京京，黄宇轩，孙兴华 |
+        | 一种鉴相器、鉴相单元及延迟锁相环电路 | 刘京京，吴锐煌，詹文 |
+        | 一种像素结构、光电二极管和C0S图像传感器 | 刘京京、李志鹏 |
+        | 一种跨导放大器及其实现方法 | 刘京京、严峰 |
+        | 一种伪电阻及其实现方法、交流耦合仪表放大器 | 刘京京、严峰 |
+        | 一种宽摆幅像素结构、图像传感器 | 刘京京、李志鹏 |
+        | 一种被分割的三阱型片上太阳能电池及其分割优化方法 | 刘京京、关健 |
+        | 一种物联网终端低功耗的电流电压基准电路及控制方法 | 刘京京，黄宇轩，姜园，孙兴华 |
+        | 一种交指叠层电容片上太阳能电池及其制备方法 | 刘京京、关健 |
+        | 一种基于电容裂解的SAR ADC电路及其量化方法 | 刘京京、孙康康，姜园 |
+        | 一种快速锁定的低功耗延迟锁相环及其控制方法 | 刘京京、吴锐煌 |
+        | 无源电荷泵二阶噪声整形逐次逼近模数转换器及实现方法 | 刘京京、孙浩宁 |
+        | 一种全无源二阶噪声整形SAR ADC结构及其量化方法 | 刘京京、孙浩宁 |
+        | 一种基于RV32I指令的伪两级流水线处理器及其控制方法 | 刘京京、莫文基 |
+        | 一种高动态范围Cmos图像传感器及其控制方法 | 刘京京、王雨辰 |
+        | 基于环栅隔离光电二极管的集成前端电路及控制方法 | 刘京京、熊炳军 |
+        | 一种具有高阶曲率补偿的电压基准源电路及其控制方法 | 刘京京、熊炳军 |
+        | 一种无源前馈式噪声整形SAR ADC结构及其量化方法 | 刘京京、孙康康 |
+        | 一种用于抑制幅值检测器波纹的电路及其抑制方法 | 刘京京、严峰 |
+        | 一种用于增强斩波放大器输入阻抗的电路及其控制方法 | 刘京京、严峰 |
 ---
