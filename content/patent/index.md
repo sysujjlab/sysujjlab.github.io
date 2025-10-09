@@ -5,7 +5,7 @@ date: 2025-10-09
 type: landing
 
 sections:
-  - block: patent
+  - block: markdown
     content:
       title: Patent
       text: |-
