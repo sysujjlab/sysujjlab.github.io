@@ -64,6 +64,6 @@ user_groups:
   - Master's Students
 ---
 
-Zeyu Yang received the B.Sc. degree in Microelectronics Science and Engineering from Sun Yat-sen University, Guangzhou, China, in 2023. He is currently pursuing the M.S. degree in electronic information at Sun Yat-sen University, Shenzhen, China.
+Hanqin Xu received the B.Sc. degree in Microelectronics Science and Engineering from Sun Yat-sen University, Guangzhou, China, in 2023. He is currently pursuing the M.S. degree in electronic information at Sun Yat-sen University, Shenzhen, China.
 
 His current research interest is circuit design of image sensors.
