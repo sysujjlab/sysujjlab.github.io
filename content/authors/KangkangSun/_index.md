@@ -68,6 +68,6 @@ user_groups:
   - Graduated Students
 ---
 
-Kangkang Sun received the B.Sc. degree in xxx major from Chongqing University of Posts and Telecommunications, Chongqing, China, in time, and the M.Sc. degree in xxx major from Hefei University of Technology, Hefei, China, in time. He is currently pursuing the Ph.D. degree with Sun Yat-sen University, Shenzhen, China.
+Kangkang Sun received the B.Sc. degree from Chongqing University of Posts and Telecommunications, Chongqing, China, the M.Sc. degree from Hefei University of Technology, Hefei, China, and the Ph.D. degree from Sun Yat-sen University, Shenzhen, China. He is currently working as a postdoctoral researcher at Tsinghua University.
 
 His current research interests include circuit design of analog to digital converter for biomedical applications and SAR ADC.
