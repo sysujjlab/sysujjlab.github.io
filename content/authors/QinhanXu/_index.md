@@ -1,6 +1,6 @@
 ---
 # Display name
-title: QinhanXu
+title: Qinhan Xu
 
 # Full Name (for SEO)
 first_name: Qinhan
