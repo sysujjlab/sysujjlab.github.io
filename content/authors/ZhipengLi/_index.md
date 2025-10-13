@@ -70,6 +70,6 @@ user_groups:
   - Graduated Students
 ---
 
-Zhipeng Li received the B.Sc. degree in xxx from Henan Normal University, Xinxiang, China, in xxx, and the M.Sc. degree in xxx from Chongqing University, Chongqing, China, in xxx. He is currently pursuing the Ph.D. degree with Sun Yat-sen University, Shenzhen, China.
+Zhipeng Li received the B.Sc. degree from Henan Normal University, Xinxiang, China, the M.Sc. degree from Chongqing University, Chongqing, China, and the Ph.D. degree from Sun Yat-sen University, Shenzhen, China. He is currently working as a lecturer at Information Engineering University.
 
 His current research interests include image sensors and energy harvesting circuits.
