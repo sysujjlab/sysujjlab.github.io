@@ -38,13 +38,13 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://www.researchsquare.com/article/rs-3933165/v1
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://www.researchsquare.com/article/rs-3933165/v1](https://www.nature.com/articles/s44172-025-00358-w'
+url_source: 'https://www.nature.com/articles/s44172-025-00358-w'
 url_video: ''
 
 # Featured image
