@@ -80,14 +80,16 @@ user_groups:
 
 6. Yuqi Lin, enrolled in 2018, obtained a master's degree from Columbia University.
 
-7. Yechun Liao, enrolled in 2020, obtained a master's degree from the University of Manchester.
+7. Fuyuan Yang, enrolled in 2018, is a direct Ph.D. student at Tsinghua University now.
 
-8. Yuhao Zhu, enrolled in 2020, is pursuing a master's degree at Nanyang Technological University.
+8. Yechun Liao, enrolled in 2020, obtained a master's degree from the University of Manchester.
 
-9. Xuanxin Ke, enrolled in 2020, is pursuing a master's degree at Nanyang Technological University.
+9. Yuhao Zhu, enrolled in 2020, is pursuing a master's degree at Nanyang Technological University.
 
-10. Zijia Chen, enrolled in 2020, is pursuing a master's degree at Fudan University.
+10. Xuanxin Ke, enrolled in 2020, is pursuing a master's degree at Nanyang Technological University.
 
-11. Yafei Zhang, enrolled in 2021, is pursuing a combined master's and Ph.D. degree at the University of Cambridge.
+11. Zijia Chen, enrolled in 2020, is pursuing a master's degree at Fudan University.
 
-12. Ketong Li, enrolled in 2021, is pursuing a master's degree at Imperial College London.
+12. Yafei Zhang, enrolled in 2021, is pursuing a combined master's and Ph.D. degree at the University of Cambridge.
+
+13. Ketong Li, enrolled in 2021, is pursuing a master's degree at Imperial College London.
