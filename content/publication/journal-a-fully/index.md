@@ -24,7 +24,7 @@ publishDate: "2025-12-30T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* IEEE Transactions on Very Large Scale Integration Systems*."
+publication: "*IEEE Transactions on Very Large Scale Integration Systems*."
 publication_short: "*VLSI*."
 
 abstract: "With the growing demand for self-powered operation in Internet of Things (IoT) nodes and microsensors, photovoltaic energy harvesting (EH) systems have become a key research focus. Although triple-well on-chip solar cells improve photovoltaic conversion efficiency, their multiport output characteristics pose design challenges: conventional parallel output schemes cannot address the mismatch in maximum power point (MPP) voltages among ports, thereby limiting energy extraction efficiency. Moreover, fully integrated EH systems lack external storage, and input–output coupling renders traditional voltage regulation unsuitable. To address these challenges, this article presents a fully integrated dual-channel EH system that employs a dual-port, independently boosted parallel architecture combined with a frequency-driven lightweight self-regulation mechanism, eliminating the need for conventional regulators. Measurement results show that the system achieves a stable output voltage of approximately 1.22 V, a peak end-to-end efficiency of 63.97%, and a 6.31% improvement in maximum output power, while also exhibiting reliable start-up and ripple suppression, providing valuable guidance for the design of efficient power extraction and self-regulation in on-chip photovoltaic EH systems."
