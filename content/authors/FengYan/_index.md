@@ -68,6 +68,6 @@ user_groups:
   - Graduated Students
 ---
 
-Feng Yan (Graduate Student Member, IEEE) received the B.Sc. degree in physics of electronic engineering from Yuncheng University, Shanxi, China, in 2018, and the M.Sc. degree in physics and electronics from Hunan Normal University, Hunan, China, in 2021. He is currently pursuing the Ph.D. degree with Sun Yat-sen University, Shenzhen, China.
+Feng Yan (Graduate Student Member, IEEE) received the B.Sc. degree in physics of electronic engineering from Yuncheng University, Shanxi, China, in 2018, and the M.Sc. degree in physics and electronics from Hunan Normal University, Hunan, China, in 2021. He received the Ph.D. degree from Sun Yat-sen University, Shenzhen, China, in 2025. He is currently a faculty postdoctoral researcher at Hunan Normal University.
 
 His current research interests include circuit design of analog front end for biomedical applications and sensor interfaces.
