@@ -3,7 +3,7 @@ title: Feng Yan's  paper has been accepted for publication in the IEEE Transacti
 date: 2026-01-10
 ---
 
-Feng Yan's  paper, "Design of a Low-noise Instrumentation Amplifier with Triple-MOS Pseudo-resistor for Bio-signal Acquisition in Consumer Electronics" has been accepted for publication in the IEEE Transactions on Consumer Electronics. Congratulations to Feng Yan for his paper being accepted.
+Feng Yan's  paper, "Design of a Low-noise Instrumentation Amplifier with Triple-MOS Pseudo-resistor for Bio-signal Acquisition in Consumer Electronics" and "High Input Impedance Chopper-stabilized Analog Front-end Based on Variable-capacitor Calibration for Bio-consumer Electronics" have been accepted for publication in the IEEE Transactions on Consumer Electronics. Congratulations to Feng Yan for his paper being accepted.
 
 <!--more-->
 
