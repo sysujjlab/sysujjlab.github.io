@@ -1,5 +1,5 @@
 ---
-title: Outstanding Undergraduate Thesis at the school-level for the Class of 2026
+title: Outstanding Undergraduate Thesis at the university-level for the Class of 2026
 
 #event: Shared AI Website
 #event_url: https://chatpro.sysujjlab.top
