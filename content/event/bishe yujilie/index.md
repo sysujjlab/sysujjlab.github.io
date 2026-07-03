@@ -13,7 +13,7 @@ title: Outstanding Undergraduate Thesis at the university-level for the Class of
   # country: United States
 
 #summary: Shared AI Announcement
-abstract: "JIlie Yu's undergraduate thesis was recognized as a Outstanding Undergraduate Thesis at the university-level for the Class of 2026."
+abstract: "Jilie Yu's undergraduate thesis was recognized as a Outstanding Undergraduate Thesis at the university-level for the Class of 2026."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
