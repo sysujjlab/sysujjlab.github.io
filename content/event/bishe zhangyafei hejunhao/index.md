@@ -1,5 +1,5 @@
 ---
-title: Outstanding Undergraduate Theses at the school-level and the college-level for the Class of 2025
+title: Outstanding Undergraduate Theses at the school-level and the university-level for the Class of 2025
 
 #event: Shared AI Website
 #event_url: https://chatpro.sysujjlab.top
