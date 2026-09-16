@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-      - course: PhD
+    - course: PhD
       institution: Sun Yat-sen University
       year: 2022~2026
     - course: MSc
