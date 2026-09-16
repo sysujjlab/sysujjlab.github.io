@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master's Students
+  - Graduated Students
 ---
 
 Xinying Su received the B.Sc. degree in xxx major from South China Agricultural University, Guangzhou, China, in 2023. She is currently pursuing the M.S. degree in electronic information with Sun Yat-sen University, Shenzhen, China.
