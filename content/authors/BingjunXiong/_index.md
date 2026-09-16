@@ -10,7 +10,7 @@ last_name: Xiong
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD
 
 # Organizations/Affiliations
 organizations:
@@ -26,12 +26,15 @@ interests:
 
 education:
   courses:
+      - course: PhD
+      institution: Sun Yat-sen University
+      year: 2022~2026
     - course: MSc
       institution: Hunan Normal University
-      year: time~time
+      year: 2019~2022
     - course: BSc
       institution: Southwest University of Science and Technology
-      year: time~time
+      year: 2015~2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -68,6 +71,6 @@ user_groups:
   - Graduated Students
 ---
 
-Bingjun Xiong received the B.Sc. degree in xxx major from Southwest University of Science and Technology, Mianyang, China, in time, and the M.Sc. degree in xxx major from Hunan Normal University, Changsha, China, in time. He is currently pursuing the Ph.D. degree with Sun Yat-sen University, Shenzhen, China.
+Bingjun Xiong received the B.Sc. degree in xxx major from Southwest University of Science and Technology, Mianyang, China, in time, and the M.Sc. degree in xxx major from Hunan Normal University, Changsha, China, in time. He received the Ph.D. degree from Sun Yat-sen University, Shenzhen, China.
 
 His current research interests include circuit design of optical receivers and references.
