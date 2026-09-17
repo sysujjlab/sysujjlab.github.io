@@ -30,7 +30,7 @@ education:
       institution: Sun Yat-sen University
       year: 2023.9~2026.6
     - course: BEng
-      institution: Sun Yat-sen University
+      institution: South China Agricultural University
       year: 2019.9~2023.6
 
 # Social/Academic Networking
