@@ -68,28 +68,30 @@ user_groups:
   - Graduated Bachelor students under Final Year Project supervision
 ---
 
-1. Jiayi Yan, enrolled in 2019, is a direct Ph.D. student at The Chinese University of Hong Kong now.
+1. Jilie Yu, enrolled in 2022, received the University-Level Outstanding Undergraduate Graduation Thesis Award from Sun Yat-sen University and is currently pursuing a master's degree at Peking University.
 
-2. Xuanshen Shu, enrolled in 2019, is a direct Ph.D. student at Tsinghua University now.
+2. Yafei Zhang, enrolled in 2021, is currently pursuing a combined master's and Ph.D. degree at the University of Cambridge.
 
-3. Huan Wu, enrolled in 2019, obtained a master's degree from Nanyang Technological University.
+3. Ketong Li, enrolled in 2021, is currently pursuing a master's degree at Imperial College London.
 
-4. Zhuohan Sun, enrolled in 2017, obtained a master's degree from Nanyang Technological University and is currently working at HiSilicon.
+4. Yechun Liao, enrolled in 2020, received a master's degree from the University of Manchester.
 
-5. Wenze Long, enrolled in 2017, obtained a master's degree from The Hong Kong University of Science and Technology and is currently working at AMD.
+5. Yuhao Zhu, enrolled in 2020, is currently pursuing a master's degree at Nanyang Technological University.
 
-6. Yuqi Lin, enrolled in 2018, obtained a master's degree from Columbia University.
+6. Xuanxin Ke, enrolled in 2020, is currently pursuing a master's degree at Nanyang Technological University.
 
-7. Fuyuan Yang, enrolled in 2018, is a direct Ph.D. student at Tsinghua University now.
+7. Zijia Chen, enrolled in 2020, is currently pursuing a master's degree at Fudan University.
 
-8. Yechun Liao, enrolled in 2020, obtained a master's degree from the University of Manchester.
+8. Jiayi Yan, enrolled in 2019, is currently pursuing a Ph.D. degree at The Chinese University of Hong Kong.
 
-9. Yuhao Zhu, enrolled in 2020, is pursuing a master's degree at Nanyang Technological University.
+9. Xuanshen Shu, enrolled in 2019, is currently pursuing a Ph.D. degree at Tsinghua University.
 
-10. Xuanxin Ke, enrolled in 2020, is pursuing a master's degree at Nanyang Technological University.
+10. Huan Wu, enrolled in 2019, received a master's degree from Nanyang Technological University.
 
-11. Zijia Chen, enrolled in 2020, is pursuing a master's degree at Fudan University.
+11. Yuqi Lin, enrolled in 2018, received a master's degree from Columbia University.
 
-12. Yafei Zhang, enrolled in 2021, is pursuing a combined master's and Ph.D. degree at the University of Cambridge.
+12. Fuyuan Yang, enrolled in 2018, is currently pursuing a Ph.D. degree at Tsinghua University.
 
-13. Ketong Li, enrolled in 2021, is pursuing a master's degree at Imperial College London.
+13. Zhuohan Sun, enrolled in 2017, received a master's degree from Nanyang Technological University and is currently with HiSilicon.
+
+14. Wenze Long, enrolled in 2017, received a master's degree from The Hong Kong University of Science and Technology and is currently with AMD.

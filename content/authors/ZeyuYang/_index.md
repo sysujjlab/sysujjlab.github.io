@@ -26,7 +26,10 @@ interests:
 
 education:
   courses:
-    - course: BSc
+    - course: MEng
+      institution: Sun Yat-sen University
+      year: 2023.9~2026.6
+    - course: BEng
       institution: Sun Yat-sen University
       year: 2018.9~2022.6
 
@@ -65,6 +68,8 @@ user_groups:
   - Graduated Students
 ---
 
-Zeyu Yang received the B.Sc. degree in communication engineering from Sun Yat-sen University, Shenzhen, China, in 2022. He is currently pursuing the M.S. degree in electronic information with Sun Yat-sen University, Shenzhen, China.
+Zeyu Yang received the B.Eng. degree in communication engineering and the M.Eng. degree in electronic information from Sun Yat-sen University, Shenzhen, China, in 2022 and 2026, respectively.
 
-His current research interests include circuit design of charge pump and radio frequency energy harvesting system.
+He is currently with Xiaomi Corporation.
+
+His research interests include charge pump circuit design and RF energy harvesting systems.

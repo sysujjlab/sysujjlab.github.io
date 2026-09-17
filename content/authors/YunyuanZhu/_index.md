@@ -21,14 +21,14 @@ organizations:
 bio: My research interests include circuit design of image sensors.
 
 interests:
-  - Image sensors
+  - Image Sensors
   # - Neuromorphic Chips.
 
 education:
   courses:
     - course: BEng
       institution: Sun Yat-sen University
-      year: 2022.9~2026.6
+      year: 2021.9~2026.6
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -65,6 +65,6 @@ user_groups:
   - Master's Students
 ---
 
-Yunyuan Zhu received the B.Eng. degree in xxx major from Sun Yat-sen University, Shenzhen, China, in 2026. He is currently pursuing the M.Eng. degree in electronic information with Sun Yat-sen University, Shenzhen, China.
+Yunyuan Zhu received the B.Eng. degree in microelectronics science and engineering from Sun Yat-sen University, Shenzhen, China, in 2026. He is currently pursuing the M.Eng. degree in electronic information at Sun Yat-sen University, Shenzhen, China.
 
 His current research interests include circuit design of image sensors.

@@ -10,7 +10,7 @@ last_name: Xiong
 superuser: false
 
 # Role/position
-role: PhD
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -71,6 +71,8 @@ user_groups:
   - Graduated Students
 ---
 
-Bingjun Xiong received the B.Sc. degree in xxx major from Southwest University of Science and Technology, Mianyang, China, in time, and the M.Sc. degree in xxx major from Hunan Normal University, Changsha, China, in time. He received the Ph.D. degree from Sun Yat-sen University, Shenzhen, China.
+Bingjun Xiong received the B.Sc. degree in xxx major from Southwest University of Science and Technology, Mianyang, China, in 2019, and the M.Sc. degree in xxx major from Hunan Normal University, Changsha, China, in 2022. He received the Ph.D. degree from Sun Yat-sen University, Shenzhen, China, in 2026.
+
+He is currently a Lecturer with Nanjing University of Posts and Telecommunications, Nanjing, China.
 
 His current research interests include circuit design of optical receivers and references.

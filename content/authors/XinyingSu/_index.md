@@ -26,8 +26,11 @@ interests:
 
 education:
   courses:
-    - course: BSc
-      institution: South China Agricultural University
+    - course: MEng
+      institution: Sun Yat-sen University
+      year: 2023.9~2026.6
+    - course: BEng
+      institution: Sun Yat-sen University
       year: 2019.9~2023.6
 
 # Social/Academic Networking
@@ -65,6 +68,8 @@ user_groups:
   - Graduated Students
 ---
 
-Xinying Su received the B.Sc. degree in xxx major from South China Agricultural University, Guangzhou, China, in 2023. She is currently pursuing the M.S. degree in electronic information with Sun Yat-sen University, Shenzhen, China.
+Xinying Su received the B.Eng. degree from South China Agricultural University, Guangzhou, China, in 2023, and the M.Eng. degree in electronic information from Sun Yat-sen University, Shenzhen, China, in 2026.
 
-Her current research interests include circuit design of CMOS memristor simulators and neuromorphic chips.
+She is currently with Monolithic Power Systems, Inc.
+
+Her research interests include CMOS memristor simulator circuit design and neuromorphic chips.

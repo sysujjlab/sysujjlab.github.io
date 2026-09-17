@@ -26,7 +26,10 @@ interests:
 
 education:
   courses:
-    - course: BSc
+    - course: MEng
+      institution: Sun Yat-sen University
+      year: 2023.9~2026.6
+    - course: BEng
       institution: Sun Yat-sen University
       year: 2019.9~2023.6
 
@@ -65,6 +68,8 @@ user_groups:
   - Graduated Students
 ---
 
-Yichen Zhang received the B.Sc. degree in xxx major from Sun Yat-sen University, Shenzhen, China, in 2023. She is currently pursuing the M.S. degree in electronic information with Sun Yat-sen University, Shenzhen, China.
+Yichen Zhang received the B.Eng. degree in XXX and the M.Eng. degree in electronic information from Sun Yat-sen University, Shenzhen, China, in 2023 and 2026, respectively. 
 
-Her current research interests include circuit design of low dropout regulator and hybrid energy harvesting system.
+She is currently with China National Offshore Oil Corporation (CNOOC).
+
+Her research interests include low-dropout regulator circuit design and hybrid energy harvesting systems.
