@@ -1,5 +1,5 @@
 ---
-title: 专利
+title: Patents
 date: 2025-10-09
 
 type: landing
@@ -7,29 +7,30 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Patent
+      title: Patents
       text: |-
-        以下是我们实验室发明的专利列表。
-        | 专利名称 | 发明人 |
-        | :-------- | :------ |
-        | 一种带有温度补偿的低电压低功耗基准电压电路 | 刘京京，黄宇轩，孙兴华 |
-        | 一种鉴相器、鉴相单元及延迟锁相环电路 | 刘京京，吴锐煌，詹文 |
-        | 一种像素结构、光电二极管和CMOS图像传感器 | 刘京京、李志鹏 |
-        | 一种跨导放大器及其实现方法 | 刘京京、严峰 |
-        | 一种伪电阻及其实现方法、交流耦合仪表放大器 | 刘京京、严峰 |
-        | 一种宽摆幅像素结构、图像传感器 | 刘京京、李志鹏 |
-        | 一种被分割的三阱型片上太阳能电池及其分割优化方法 | 刘京京、关健 |
-        | 一种物联网终端低功耗的电流电压基准电路及控制方法 | 刘京京，黄宇轩，姜园，孙兴华 |
-        | 一种交指叠层电容片上太阳能电池及其制备方法 | 刘京京、关健 |
-        | 一种基于电容裂解的SAR ADC电路及其量化方法 | 刘京京、孙康康，姜园 |
-        | 一种快速锁定的低功耗延迟锁相环及其控制方法 | 刘京京、吴锐煌 |
-        | 无源电荷泵二阶噪声整形逐次逼近模数转换器及实现方法 | 刘京京、孙浩宁 |
-        | 一种全无源二阶噪声整形SAR ADC结构及其量化方法 | 刘京京、孙浩宁 |
-        | 一种基于RV32I指令的伪两级流水线处理器及其控制方法 | 刘京京、莫文基 |
-        | 一种高动态范围CMOS图像传感器及其控制方法 | 刘京京、王雨辰 |
-        | 基于环栅隔离光电二极管的集成前端电路及控制方法 | 刘京京、熊炳军 |
-        | 一种具有高阶曲率补偿的电压基准源电路及其控制方法 | 刘京京、熊炳军 |
-        | 一种无源前馈式噪声整形SAR ADC结构及其量化方法 | 刘京京、孙康康 |
-        | 一种用于抑制幅值检测器波纹的电路及其抑制方法 | 刘京京、严峰 |
-        | 一种用于增强斩波放大器输入阻抗的电路及其控制方法 | 刘京京、严峰 |
+        The following is a list of patents developed by our laboratory.
+
+        | Patent Title | Inventors |
+        | :----------- | :-------- |
+        | Low-Voltage, Low-Power Reference Voltage Circuit with Temperature Compensation | Jingjing Liu, Yuxuan Huang, Xinghua Sun |
+        | Phase Detector, Phase Detection Unit, and Delay-Locked Loop Circuit | Jingjing Liu, Ruihuang Wu, Wen Zhan |
+        | Pixel Structure, Photodiode, and CMOS Image Sensor | Jingjing Liu, Zhipeng Li |
+        | Transconductance Amplifier and Its Implementation Method | Jingjing Liu, Feng Yan |
+        | Pseudo-Resistor, Its Implementation Method, and AC-Coupled Instrumentation Amplifier | Jingjing Liu, Feng Yan |
+        | Wide-Swing Pixel Structure and Image Sensor | Jingjing Liu, Zhipeng Li |
+        | Segmented Triple-Well On-Chip Solar Cell and Its Segmentation Optimization Method | Jingjing Liu, Jian Guan |
+        | Low-Power Current and Voltage Reference Circuit for IoT Terminals and Its Control Method | Jingjing Liu, Yuxuan Huang, Yuan Jiang, Xinghua Sun |
+        | Interdigitated Stacked-Capacitor On-Chip Solar Cell and Its Fabrication Method | Jingjing Liu, Jian Guan |
+        | Capacitor-Splitting-Based SAR ADC Circuit and Its Quantization Method | Jingjing Liu, Kangkang Sun, Yuan Jiang |
+        | Fast-Locking Low-Power Delay-Locked Loop and Its Control Method | Jingjing Liu, Ruihuang Wu |
+        | Passive Charge-Pump Second-Order Noise-Shaping Successive Approximation Analog-to-Digital Converter and Its Implementation Method | Jingjing Liu, Haoning Sun |
+        | Fully Passive Second-Order Noise-Shaping SAR ADC Architecture and Its Quantization Method | Jingjing Liu, Haoning Sun |
+        | RV32I Instruction-Based Pseudo-Two-Stage Pipelined Processor and Its Control Method | Jingjing Liu, Wenji Mo |
+        | High-Dynamic-Range CMOS Image Sensor and Its Control Method | Jingjing Liu, Yuchen Wang |
+        | Integrated Front-End Circuit Based on a Ring-Gate-Isolated Photodiode and Its Control Method | Jingjing Liu, Bingjun Xiong |
+        | Voltage Reference Circuit with Higher-Order Curvature Compensation and Its Control Method | Jingjing Liu, Bingjun Xiong |
+        | Passive Feedforward Noise-Shaping SAR ADC Architecture and Its Quantization Method | Jingjing Liu, Kangkang Sun |
+        | Circuit for Suppressing Ripple in an Amplitude Detector and Its Suppression Method | Jingjing Liu, Feng Yan |
+        | Circuit for Enhancing the Input Impedance of a Chopper Amplifier and Its Control Method | Jingjing Liu, Feng Yan |
 ---
